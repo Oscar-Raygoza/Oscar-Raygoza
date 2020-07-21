@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/Gmail-oscar.eduardo.raygoza%40gmail.com-red)](mailto:oscar.eduardo.raygoza@gmail.com)
 [![](https://img.shields.io/badge/Twitter-OscarRaygoza_-1da1f2)](https://twitter.com/OscarRaygoza_)
 
-
+![Oscar-Raygoza github stats](https://github-readme-stats.vercel.app/api?username=Oscar-Raygoza&show_icons=true&title_color=fff&icon_color=018eff&text_color=ECECEC&bg_color=000000)
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
