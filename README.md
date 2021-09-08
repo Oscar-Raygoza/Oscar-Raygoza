@@ -17,25 +17,24 @@
 ```javascript
 
 const oscarRaygoza_ = {
-    askMeAbout: ["app dev", "web dev", "tech"],
+    askMeAbout: ["app dev", "web dev", "tech", "Music"],
     technologies:{
-        backEnd: ["nodejs", "express", "php"],
-        protocols: ["rest", "http", "graphql"],
+        backEnd: ["nodejs", "express", "php", "python"],
+        protocols: ["rest", "http", "graphql", "serverless"],
         fronEnd: {
-          skills: ["javascript", "html", "css", "sass"],
+          skills: ["react", "node", "web development", "mobile development", "frontend"],
           cssMethodologies: ["bem"],
-          frameworks: ["react", "gatsby"],
-          managingTheState: ["redux"],
-          libraries: ["bootstrap", "materialize", "ant design"],
+          frameworks: ["react", "gatsby", "redux", "gatsby"],
+          libraries: ["bootstrap", "materialize", "ant design", "atlassian kit ui"],
           design: ["sketch","adobe xd"]
         },
         mobileApp: ["react-native"],
         database: ["mongodb","mySql"],
-        devOps: ["DigitalOcean", "Nginx", "Apache2", "Hostinger", "Heroku"],
-        misc: ["Socket.IO"],
+        devOps: ["digitalOcean", "nginx", "apache", "hostinger", "heroku", "ngrok"],
+        misc: ["socket.IO"],
         otherLanguages: ["typescript", "c#", "java"]
     },
-    architecture: ["microservices", "Single page applications"]
+    architecture: ["microservices", "spa"]
 }
 
 console.log(oscarRaygoza_);
