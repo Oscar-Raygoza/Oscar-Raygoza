@@ -7,9 +7,9 @@
 [![](https://img.shields.io/badge/Gmail-oscar.eduardo.raygoza%40gmail.com-red)](mailto:oscar.eduardo.raygoza@gmail.com)
 [![](https://img.shields.io/badge/Twitter-OscarRaygoza_-1da1f2)](https://twitter.com/OscarRaygoza_)
 
-![Oscar-Raygoza github stats](https://github-readme-stats.vercel.app/api?username=Oscar-Raygoza&show_icons=true&theme=vue-dark)
+![Oscar-Raygoza github stats](https://github-readme-stats.vercel.app/api?username=Oscar-Raygoza&show_icons=true)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oscar-Raygoza&layout=compact&theme=vue-dark)](https://github.com/Oscar-Raygoza/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oscar-Raygoza&layout=compact)](https://github.com/Oscar-Raygoza/github-readme-stats)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
