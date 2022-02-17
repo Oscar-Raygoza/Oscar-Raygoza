@@ -14,7 +14,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/Oscar-Raygoza"><img width="32px" alt="github" title="github" src="https://i.postimg.cc/yW4k95v9/icons8-github-100.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://api.whatsapp.com/send?phone=4651353138"><img width="32px" alt="whatsappi" title="whatsapp" src="https://i.postimg.cc/d3BVk1ZM/icons8-whatsapp-100.png"/></a>
+  <a href="https://api.whatsapp.com/send?phone=524651353138"><img width="32px" alt="whatsappi" title="whatsapp" src="https://i.postimg.cc/d3BVk1ZM/icons8-whatsapp-100.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.twitter.com/OscarRaygoza_"><img width="32px" alt="Free Stuff" title="twitter" src="https://i.postimg.cc/CMPy1kzh/icons8-twitter-100.png"/></a>
 </p>
@@ -65,7 +65,6 @@ console.log(oscarRaygoza_);
     <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
     <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
