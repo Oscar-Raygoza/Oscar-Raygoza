@@ -6,18 +6,6 @@
 </h2>
 
 <h4> Developer 👨‍💻</h4>
-<!-- Social icons section -->
-<p>
-  <a href="https://facebook.com/oscar.eduardo.mr/about"><img width="32px" alt="Facebook" title="Facebook" src="https://i.postimg.cc/R0zL9pmW/icons8-facebook-nuevo-100.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://linkedin.com/in/oscar-eduardo-raygoza" alt="linkedin"><img width="32px" src="https://i.postimg.cc/SNBW71Jg/icons8-linkedin-100.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/Oscar-Raygoza"><img width="32px" alt="github" title="github" src="https://i.postimg.cc/yW4k95v9/icons8-github-100.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://api.whatsapp.com/send?phone=524651353138"><img width="32px" alt="whatsappi" title="whatsapp" src="https://i.postimg.cc/d3BVk1ZM/icons8-whatsapp-100.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.twitter.com/OscarRaygoza_"><img width="32px" alt="Free Stuff" title="twitter" src="https://i.postimg.cc/CMPy1kzh/icons8-twitter-100.png"/></a>
-</p>
 
 [![](https://img.shields.io/badge/Gmail-oscar.eduardo.raygoza%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:oscar.eduardo.raygoza@gmail.com)
 
