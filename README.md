@@ -107,7 +107,7 @@ console.log(oscarRaygoza_);
   
   ### 💬!
 
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oscar-raygoza)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/osar-eduardo-raygoza])
     <a href="https://buymeacoffee.com/oscarraygoza">
     <img src="https://media-hosting.imagekit.io/f7637aea93cb4467/bmc-button.png?Expires=1838494865&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=2uTrrEPlULK4arPUFfc1O3FsDuQN2CNBpuLWSeHJT0He19CL71oHcEjy-TCz31hUEurYTmXL~V~Vnuom4prgvKOcHQ9jhqPisiUsqvYBu9ZRTYuHcVs~symajmkdnPJtks4Sjs5qBR~bh9xdhvOufXqd67GNVmQr-frG1Ip8p~8-egGP95PT3~oL9SSfQPdfaEwrmpkUF96MH8nZ~WVnNDGLhaTFK42ZR7PyB95bA-gw60yqrztA8RHIfREY~epWy~dEWIo3mxH-Vg3aa6LV-BUvirOZ5QM9Vxr96AbxcdNa8uninlPbfvCJg2D5f7K0f3wxALdzvMu0xmfTJo8fEw__" alt="Logo" width="10%" height="auto">
   </a>
